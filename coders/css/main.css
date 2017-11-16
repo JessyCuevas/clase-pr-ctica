@@ -1,0 +1,39 @@
+
+
+section{
+	
+	margin-bottom: 20px;
+}
+
+.block{
+	background: #ededed;
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	margin-right: 15px;
+
+}
+
+.font{
+	color: white;
+	font-size: 20px;	
+	margin-left: 120px;
+	margin-top: 160px;
+}
+
+.coder{
+	background-size: 200px;
+}
+
+
+.coder1{
+	background-image: url("../assets/images/coder1.jpg");
+}
+
+.coder2{
+	background-image: url("../assets/images/coder2.jpg");
+}
+
+.coder3{
+	background-image: url("../assets/images/coder3.jpg");
+}
